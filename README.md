@@ -3,6 +3,8 @@
 A React starter project with Flask backend that works with [Docker](https://www.docker.com), [Docker Compose](https://docs.docker.com/compose),
 and [Shipyard](https://shipyard.build) out of the box.
 
+[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://sandbox.coder.com/wac/build?project_oauth_service=github&template_oauth_service=github&project_url=git@github.com:bcdr-demos/react-flask-starter.git&template_url=bcdr-demos/react-flask-starter&template_ref=main&template_filepath=.coder/coder.yaml)
+
 ## Includes
 
 - [React](https://github.com/facebook/react) - JavaScript library for building user interfaces
