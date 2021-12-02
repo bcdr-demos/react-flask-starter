@@ -11,7 +11,7 @@ workspace:
   specs:
     kubernetes:
       image:
-        value: index.docker.io/ubuntu:18.04
+        value: index.docker.io/codercom/enterprise-base:ubuntu
       container-based-vm:
         value: true
       cpu:
