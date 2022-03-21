@@ -58,11 +58,11 @@ workspace:
             PROJECT_FOLDER: /home/coder/react-flask-starter
   dev-urls:
     value:
-      - name: frontend
+      - name: react
         port: 3000
         scheme: http
         access: org # anyone on the team can preview during development
-      - name: backend
+      - name: flask
         port: 8000
         scheme: http
         access: org # anyone on the team can preview during development
